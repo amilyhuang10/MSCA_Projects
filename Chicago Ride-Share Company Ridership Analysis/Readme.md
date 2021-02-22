@@ -17,7 +17,7 @@ Preprocessed dataset using Python, MySQL and Uchicago Research Computing Center
 
 **Data Modeling** <br>
 Utilized MySQL to compile data into a relational database with star schema and stored processed data for further data analysis
-![alt text](https://github.com/amilyhuang10/MSCA_Projects/blob/Chicago Ride-Share Company Ridership Analysis/EER Diagram.jpg?raw=true)
+<img src="https://github.com/amilyhuang10/MSCA_Projects/blob/main/Chicago%20Ride-Share%20Company%20Ridership%20Analysis/EER%20Diagram.png" width="300" />
 
 **Model Fitting**<br>
 - Random Forest Regressor to find top important features that affect ridership 

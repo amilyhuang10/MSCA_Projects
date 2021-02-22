@@ -21,5 +21,5 @@ Utilized MySQL to compile data into a relational database with star schema and s
 
 ### **Model Fitting**
 - Random Forest Regressor to find top important features that affect ridership 
-- Time series models to forecast the ridership (sARIMA and Regression with ARIMA errors)
+- Time series models to forecast the ridership using R (sARIMA and Regression with ARIMA errors)
 - Tableau was used for visualization and BI Report to analyze each variables' impact on ridership

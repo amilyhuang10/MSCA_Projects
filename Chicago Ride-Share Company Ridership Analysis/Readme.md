@@ -17,8 +17,6 @@ Preprocessed dataset using Python, MySQL and Uchicago Research Computing Center
 
 ### **Data Modeling**
 Utilized MySQL to compile data into a relational database with star schema and stored processed data for further data analysis.<br>
-
-**Enhanced Entity Relationship diagram**<br>
 <img src="https://github.com/amilyhuang10/MSCA_Projects/blob/main/Chicago%20Ride-Share%20Company%20Ridership%20Analysis/EER%20Diagram.png" width="500" />
 
 ### **Model Fitting**

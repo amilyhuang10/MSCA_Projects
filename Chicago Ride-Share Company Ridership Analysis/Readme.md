@@ -33,3 +33,5 @@ Utilized MySQL to compile data into a relational database with star schema and s
 - [Random Forest Regressor](https://github.com/amilyhuang10/MSCA_Projects/blob/main/Chicago%20Ride-Share%20Company%20Ridership%20Analysis/Model%20Fitting/Random_Forest_Regressor_Top_Important_Features.ipynb) to find top important features that affect ridership 
 - Time series models to forecast the ridership using R ([sARIMA](https://github.com/amilyhuang10/MSCA_Projects/blob/main/Chicago%20Ride-Share%20Company%20Ridership%20Analysis/Model%20Fitting/sARIMA_Model_R.pdf) and Regression with ARIMA errors)
 - Tableau was used for visualization and BI Report to analyze each variables' impact on ridership
+
+This is a team project completed in the University of Chicago MS Data Analytics

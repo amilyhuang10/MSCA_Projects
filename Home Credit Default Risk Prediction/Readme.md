@@ -11,7 +11,7 @@ This [presentation slide](https://github.com/amilyhuang10/MSCA_Projects/blob/mai
 The goal of this project is to make default predictions given certain characteristics of a credit applicant and help loan companies to minimize default risk. 
 
 ### **Dataset**<br>
-[Home Credit Default Risk] (https://www.kaggle.com/c/home-credit-default-risk/data)
+[Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/data)
 
 ### **[EDA & Feature Engineering](https://github.com/amilyhuang10/MSCA_Projects/blob/main/Home%20Credit%20Default%20Risk%20Prediction/EDA_Feature_Engineering.ipynb)**
 - Univariate Analysis

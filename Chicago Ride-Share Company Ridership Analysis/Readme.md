@@ -3,7 +3,7 @@
       
 </DIV> 
 
-This [presentation slide](https://github.com/amilyhuang10/MSCA_Projects/blob/main/Chicago%20Ride-Share%20Company%20Ridership%20Analysis/Presentation%20Slide.pdf) contains data information, business intelligence report, and time series model fitting results and evaluation. 
+This [presentation slide](https://github.com/amilyhuang10/MSCA_Projects/blob/main/Chicago%20Ride-Share%20Company%20Ridership%20Analysis/Presentation%20Slide.pdf) contains data overview, business intelligence report, and time series model building results and evaluation. 
 
 ### **Goal and Objective**<br>
 The goal of this project is to optimize vehicle allocation with the rideshare trips and other related datasets, and give business insights and recommendations to Transportation Network Providers(TNP).

@@ -36,3 +36,5 @@ Cost-sensitive learning
 ### **Model Comparison**
 - AUC 
 - Recall
+
+This is a team project completed in the University of Chicago MS Data Analytics program
